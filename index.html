@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Hoja de estilos y Favicon -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="./imagenes/favicon.ico" type="image/x-icon">
+    <title>Encriptador de Texto</title>
+</head>
+<body>
+
+    <!-- Encabezado -->
+    <header>
+        <a href="https://www.aluracursos.com/">
+            <img src="./imagenes/logo.svg" alt="Logo Alura" class="logo">
+        </a>
+        <h1>Encriptador de Texto</h1>
+    </header>
+
+    <!-- Principal -->
+    <main>
+        <section class="encriptador">
+            <textarea class="encriptar" placeholder="Ingrese el texto aquí"></textarea>
+            <button class="btn-borrar" title="Borrar Texto"><img src="imagenes/borrar.svg" alt="Imagen Goma de Borrar"></button>
+            <div class="encriptador-global">
+                <div class="encriptador-aviso">
+                    <img src="./imagenes/aviso.svg" alt="Imagen Aviso" class="img-aviso">
+                    <p class="texto-aviso">Solo letras minúsculas y sin acentos</p>
+                </div>
+                <div class="encriptador-contenedor">
+                    <button type="submit" class="btn btn-encriptar">Encriptar</button>
+                    <button type="submit" class="btn btn-desencriptar">Desencriptar</button>
+                </div>
+            </div>
+        </section>
+        <section class="tarjeta">
+            <div class="tarjeta-contenedor">
+                <img src="./imagenes/muñeco.svg" alt="Imagen Muñeco" class="img-muñeco">
+                <p class="texto-uno">Ningún mensaje fue encontrado</p>
+                <p class="texto-dos">Ingresa el texto que desean encriptar o desencriptar</p>
+            </div>
+            <textarea type="mensaje" class="evaluar" readonly></textarea>
+            <button type="submit" class="btn btn-copiar">Copiar</button>
+        </section>
+    </main>
+
+    <!-- Pie de página -->
+    <footer>
+        <p class="copyright">&copy; copyright 2024 - Encriptador de Texto - Desarrollado por Lucas Medina</p>
+        <a href="https://www.linkedin.com/in/lucas-medina-6b97a014b/" target="_blank" title="LinkedIn">
+            <img src="./imagenes/linkedin.svg" alt="Logo LinkedIn" class="linked">
+        </a>
+        <a href="https://github.com/LucasMedinaMdz" target="_blank" title="Github">
+            <img src="./imagenes/github.svg" alt="Logo Github" class="linked">
+        </a>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
