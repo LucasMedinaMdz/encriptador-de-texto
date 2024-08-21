@@ -6,8 +6,6 @@ Este proyecto es un desafío de programación que se centra en la creación de u
 
 <img src="https://github.com/user-attachments/assets/945dccc0-c796-46f1-9efa-60ca2d5fedf9" alt="Encriptador de Texto">
 
-<img src="https://github.com/user-attachments/assets/135db6ed-38e9-421f-b086-2fedb99018c5" alt="Encriptador de Texto">
-
 ## Enlaces 🔗
 
 - [Link al Proyecto en GitHub](https://lucasmedinamdz.github.io/encriptador-de-texto/)
