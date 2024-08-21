@@ -1,8 +1,12 @@
+![HTML](https://img.shields.io/badge/-HTML-red?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
+
 # Desafío: Encriptador de Texto 🛠️
 
-Este proyecto es un desafío de programación que se centra en la creación de una página web capaz de encriptar y desencriptar texto usando reglas específicas. El proyecto está basado en los conocimientos adquiridos en el curso "Principiante en Programación" de Alura Latam que forma parte del programa Oracle Next Education (ONE)
+Este proyecto es un desafío de programación que se centra en la creación de una página web capaz de encriptar y desencriptar texto usando reglas específicas. El proyecto está basado en los conocimientos adquiridos en el curso "Principiante en Programación" de Alura Latam que forma parte del programa Oracle Next Education (ONE).
 
 <img src="https://github.com/user-attachments/assets/cbc74bb9-ff9b-48c0-8b7a-ddfa6f843cc1" alt="Encriptador de Texto">
+
+<img src="https://github.com/user-attachments/assets/135db6ed-38e9-421f-b086-2fedb99018c5" alt="Encriptador de Texto">
 
 ## Enlaces 🔗
 
@@ -36,6 +40,7 @@ Este proyecto es un desafío de programación que se centra en la creación de u
 ### Requisitos Técnicos ⚙️
 
 - **Lenguajes Utilizados**: HTML, CSS y JavaScript.
+  
 - **Condiciones de Entrada**:
   - Debe funcionar solo con letras minúsculas.
   - No se deben utilizar letras con acentos ni caracteres especiales.
@@ -48,8 +53,8 @@ Este proyecto es un desafío de programación que se centra en la creación de u
 2. **Notificaciones de Alertas** 🔔
    - Ofrece alertas personalizadas para informar al usuario sobre el estado de la conversión, mejorando la experiencia de uso.
      
-3- **Opción para Borrar Texto** 🗑️
-   -Incluye un ícono que permite al usuario borrar rápidamente el texto ingresado en el campo de entrada, facilitando la corrección o reinicio del proceso.
+3. **Opción para Borrar Texto** 🗑️
+   - Incluye un ícono que permite al usuario borrar rápidamente el texto ingresado en el campo de entrada, facilitando la corrección o reinicio del proceso.
 
 ## Tecnologías Utilizadas 🛠️
 
